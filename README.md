@@ -46,7 +46,7 @@
 > **Note on Contribution History:**  
 > My recent engineering work has been centered on private home lab infrastructure, enterprise internal repositories, and self-hosted environments. Most active development takes place in local and private environments, so the public contribution graph below represents only a slice of my ongoing projects.
 
-![Tyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikagoex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Tyler's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikagoex&theme=tokyo-night&hide_border=true)
 
 ---
 
